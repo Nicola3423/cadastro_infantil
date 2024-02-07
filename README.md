@@ -21,4 +21,4 @@ Funcionalidades do Sistema: O programa solicitará ao usuário que escolha uma d
 
 Instruções para Execução: Para executar o programa, o usuário/paciente deve baixar o código e abri-lo em um editor de código-fonte, como o INTELLIJ (recomendado).
 
-Feedback: Desenvolver este programa foi desafiador; a experiência proporcionada foi inovadora. Tive que pesquisar e consultar materiais de diversas fontes para realizá-lo. O seu desenvolvimento será inesquecível.
+Feedback: Desenvolver este programa foi desafiador; a experiência proporcionada foi inovadora. Tive que pesquisar e consultar materiais de diversas fontes para realizá-lo. O seu desenvolvimento foi inesquecível.
